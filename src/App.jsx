@@ -18,7 +18,7 @@ function App() {
       <nav>
         <div className="flex-container navbar-container">
           <div className="flex-container">
-            <div className="logo-name">Dented</div>
+            <div className="logo-name">Black Cat Developer</div>
             <div className="line">|</div>
             <div>Soft. Engineer</div>
           </div>
