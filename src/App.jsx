@@ -18,7 +18,7 @@ function App() {
       <nav>
         <div className="flex-container navbar-container">
           <div className="flex-container">
-            <div className="logo-name">Dented</div>
+            <div className="logo-name">The Black Cat Developer</div>
             <div className="line">|</div>
             <div>Soft. Engineer</div>
           </div>
@@ -273,7 +273,7 @@ function App() {
       <center><h2>About Me</h2></center>
 
       <div className="flex-container about-me-container">
-        <div><img src="./assets/profile-image.png" alt="profile-image" /></div>
+        <div><img src={profileImage} alt="profile-image" /></div>
         
         <div className="bio-container">
           <h4>Dented Code</h4>
